@@ -8,5 +8,6 @@ namespace Refactoring_CourseProj
 {
     class Model
     {
+        static public string m = "1";
     }
 }

@@ -12,33 +12,45 @@ namespace Refactoring_CourseProj
 
     class Dialogue
     {
+        private static string l,k;
+        private static string quest,addr;
 
-        public static string GetQuestion(string quest)
+        public static string GetFileAddr()
         {
             OpenFileDialog open = new OpenFileDialog();
             open.InitialDirectory = "c:\\";
             open.Filter = "xml files (*.xml)|*.xml";
             open.FilterIndex = 2;
             open.RestoreDirectory = true;
-            string m = "1";
 
             if (open.ShowDialog() == DialogResult.OK)
             {
-                string k = open.FileName;
-                //читаем данные из файла
-                XDocument doc = XDocument.Load(k);
+               l = open.FileName;
+            }
+             addr = l;
+            return addr;
+        }
+
+        public static string GetQuestion(string m)
+        {
+           
+                XDocument doc = XDocument.Load(l);
 
                 foreach (XElement el in doc.Root.Elements())
                 {
                     if (el.Attribute("id").Value == m)
                     {
-                        quest = el.Attribute("text").Value;
+                       k = el.Attribute("text").Value;
                     }
 
                 }
-            }
+            quest = k;
             return quest;
+
         }
 
+
     }
+
 }
+

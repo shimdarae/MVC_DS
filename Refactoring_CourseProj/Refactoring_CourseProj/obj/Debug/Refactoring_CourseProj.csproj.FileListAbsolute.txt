@@ -1,1 +1,10 @@
 C:\Users\1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\1\Documents\GitHub\MVC_DS\Refactoring_CourseProj\Refactoring_CourseProj\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\1\Documents\GitHub\MVC_DS\Refactoring_CourseProj\Refactoring_CourseProj\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\1\Documents\GitHub\MVC_DS\Refactoring_CourseProj\Refactoring_CourseProj\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\1\Documents\GitHub\MVC_DS\Refactoring_CourseProj\Refactoring_CourseProj\obj\Debug\Refactoring_CourseProj.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\GitHub\MVC_DS\Refactoring_CourseProj\Refactoring_CourseProj\obj\Debug\Refactoring_CourseProj.DialogueView.resources
+C:\Users\1\Documents\GitHub\MVC_DS\Refactoring_CourseProj\Refactoring_CourseProj\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\1\Documents\GitHub\MVC_DS\Refactoring_CourseProj\Refactoring_CourseProj\obj\Debug\Refactoring_CourseProj.csproj.GenerateResource.Cache
+C:\Users\1\Documents\GitHub\MVC_DS\Refactoring_CourseProj\Refactoring_CourseProj\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\1\Documents\GitHub\MVC_DS\Refactoring_CourseProj\Refactoring_CourseProj\obj\Debug\WindowsFormsApplication3.pdb
